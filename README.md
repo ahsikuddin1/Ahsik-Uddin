@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+</html>
 <head>
   <link href="/normalize.css" rel="stylesheet">
   <style>
@@ -47,25 +48,20 @@
 <body>
   <header>
     <img src="https://i.imgur.com/fdsm34K.jpg">
-    <h1>Ahsik's Bangladesh Blog</h1>
+    <h1>Ahsik's Personal Website</h1>
     <ul>
       <li><a href="#">About Me</a></li>
       <li><a href="#">Contact Info</a></li>
     </ul>
   </header>
   <article>
-    <h2>VHS umami pop-up trust fund</h2>
-    <p>Marfa church-key kitsch bicycle rights, 8-bit mixtape cardigan gentrify Echo Park. Street art swag brunch, next level roof party Schlitz hella organic keffiyeh selfies. You probably haven't heard of them polaroid hashtag +1, meggings biodiesel Portland High Life cray tumblr retro.</p>
+    <h2>About Me</h2>
+    <p> My Name is Ahsik Uddin and I recently graduated with a BBA in Business Managment from Brooklyn College. However, my real passion is in the technology field.Ever since I was 8, it was my job in the house to set up computers and software. </p>
     <button>Like</button>
   </article>
   <article>
-    <h2>Sartorial synth Echo Park, roof party</h2>
-    <p>chambray you probably haven't heard of them pour-over viral selvage umami skateboard VHS post-ironic selfies. Wes Anderson gentrify fanny pack twee, bicycle rights bitters blog keffiyeh plaid flannel. Tonx irony cliche sustainable mlkshk bitters. Four loko leggings chambray Vice.</p>
-    <button>Like</button>
-  </article>
-  <article>
-    <h2>Forage food truck keytar master cleanse</h2>
-    <p>ethical thundercats sustainable locavore quinoa Neutra. Aesthetic tacky sweater single-origin coffee, bicycle rights organic lo-fi street art american apparel ennui four loko ethnic Brooklyn small batch. Forage YOLO polaroid</p>
+    <h2>Contact info </h2>
+    <p> My email address is Ahsikuddin1@gmail.com .</p>
     <button>Like</button>
   </article>
   <script>
