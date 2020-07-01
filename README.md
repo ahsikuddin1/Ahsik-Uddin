@@ -5,7 +5,6 @@
   <style>
     header {
       text-align: center;
-      background: url('https://www.state.gov/wp-content/uploads/2019/04/Bangladesh.jpg');
       background-size: cover;
       color: Pink;
     }
